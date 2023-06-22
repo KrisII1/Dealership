@@ -3468,11 +3468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kris\\Desktop\\dealership\\dealership\\Dealership\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Kris\\Documents\\GitHub\\Dealership\\dealership\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "C:\\Users\\Kris\\Desktop\\dealership\\dealership\\Dealership\\BusinessLayer\\BusinessLayer.csproj",
+      "projectPath": "C:\\Users\\Kris\\Documents\\GitHub\\Dealership\\dealership\\BusinessLayer\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\Kris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kris\\Desktop\\dealership\\dealership\\Dealership\\BusinessLayer\\obj\\",
+      "outputPath": "C:\\Users\\Kris\\Documents\\GitHub\\Dealership\\dealership\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

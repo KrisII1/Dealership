@@ -1,6 +1,5 @@
 using BusinessLayer;
 using DataLayer;
-using DataLayer;
 using Microsoft.EntityFrameworkCore;
 using NUnit.Framework;
 using System;
@@ -24,7 +23,7 @@ namespace TestLayer
 
 
         [SetUp]
-        public void CreateInterest()
+        public void CreateCar()
         {
             Location Sofia = new Location("Sofia");
             car = new Cars("Camaro", Sofia);
@@ -39,7 +38,7 @@ namespace TestLayer
         }
 
         [TearDown]
-        public void DropBrand()
+        public void DropCar()
         {
             foreach (Cars item in SetupFixture.dbContext.Cars)
             {
