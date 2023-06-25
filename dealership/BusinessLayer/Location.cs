@@ -31,5 +31,10 @@ namespace BusinessLayer
             Cars= new List<Cars>();
         }
 
+        public override string ToString()
+        {
+            return $"{Name}";
+        }
+
     }
 }
